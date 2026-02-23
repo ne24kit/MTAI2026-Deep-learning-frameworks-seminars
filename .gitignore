@@ -1,6 +1,7 @@
 ###Seminar files for non-tracking
 seminar_1/data/
 seminar_1/graph_with*
+seminar_2/*.pt
 
 ### Python template
 # Byte-compiled / optimized / DLL files
