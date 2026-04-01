@@ -2,6 +2,8 @@
 seminar_1/data/
 seminar_1/graph_with*
 seminar_2/*.pt
+seminar_4/data/
+seminar_4/vgg.cifar.pretrained.pth
 
 ### Python template
 # Byte-compiled / optimized / DLL files
